@@ -1,6 +1,6 @@
 // This is my stack card where i add technologies
 import type { ExpTech } from "../types";
-
+// add the type props
 interface StackSidebarProps {
   selectedStack: ExpTech[];
   onRemove: (id: string, name: string) => void;
