@@ -1,4 +1,3 @@
-
 import { Toaster } from "react-hot-toast";
 import Footer from "./components/Footer"
 import MainLayout from "./components/MainLayout"
@@ -34,7 +33,7 @@ function App() {
           </section>
         </div>
       </main>
-      
+
       <Footer />
       
     </>
