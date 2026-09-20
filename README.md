@@ -1,7 +1,10 @@
-Name of your project: my-react-app.
-Description: This is my first react project after learn it. And by this, I start a new level of developement.
-Technology that i use: 1.React 2.Typescript 3.JSX 4.Tailwind CSS 
-3 features about my project: 1. In my this project i made a beautiful navbar and banner. 2. I made a Technology Explore             section when user can select any technology in stack and they can remove that, and also they can remove all are selected       technology in one click. 3. I made a nice footer where i add some necessary information and some social media link.
+#Name of your project: my-react-app.
+
+#Description: This is my first react project after learn it. And by this, I start a new level of developement.
+
+#Technology that i use: 1.React 2.Typescript 3.JSX 4.Tailwind CSS 
+
+#3 features about my project: 1. In my this project i made a beautiful navbar and banner. 2. I made a Technology Explore     section when user can select any technology in stack and they can remove that, and also they can remove all are selected technology in one click. 3. I made a nice footer where i add some necessary information and some social media link.
 
 //questions answer//
 
