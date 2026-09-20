@@ -1,6 +1,5 @@
 
 import { Toaster } from "react-hot-toast";
-
 import Footer from "./components/Footer"
 import MainLayout from "./components/MainLayout"
 import Banner from "./components/Banner"
@@ -23,7 +22,9 @@ function App() {
       <Toaster position="bottom-right" reverseOrder={false} />
       
       <Nav />
+
       <Banner />
+
       <main>
         <div>
           <section className="container mx-auto my-8">    
@@ -31,8 +32,9 @@ function App() {
                 <MainLayout mainlayoutPromise={mainlayoutPromise}/>
               </Suspense>
           </section>
-      </div>
+        </div>
       </main>
+      
       <Footer />
       
     </>
