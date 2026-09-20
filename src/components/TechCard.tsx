@@ -1,4 +1,3 @@
-// This is my every technology card
 import type { ExpTech } from "../types";
 
 interface TechCardProps {

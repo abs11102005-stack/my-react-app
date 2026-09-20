@@ -1,4 +1,3 @@
-// This is my stack card where i add technologies
 import type { ExpTech } from "../types";
 
 interface StackSidebarProps {
