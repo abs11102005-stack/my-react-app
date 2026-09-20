@@ -1,3 +1,4 @@
+// first layer of web
 import Logo from '../assets/logo-text.png';
 
 const Nav = () => {
