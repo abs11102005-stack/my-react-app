@@ -4,7 +4,7 @@ import type { ExpTech } from "../types";
 import TechCard from './TechCard';
 import StackSidebar from './StackSidebar';
 
-// in this component i made the main part of this project
+
 const MainLayout = ({ mainlayoutPromise }: { mainlayoutPromise: Promise<ExpTech[]> }) => {
   const allTechnologies = use(mainlayoutPromise);
   
